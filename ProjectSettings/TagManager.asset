@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Magazine
+  - Hand
+  - DetectionRoom
+  - MedKit
+  - Ammo
+  - Bullet
+  - Item
+  - PlayerSpawnPoint
+  - EnemySpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Enemy
+  - Wall
+  - Player
+  - 
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 1001508783
+    locked: 0
+  - name: Player
+    uniqueID: 2774087481
+    locked: 0
+  - name: Enemy
+    uniqueID: 2252045309
+    locked: 0
+  - name: Wall_2
+    uniqueID: 2779026001
+    locked: 0
+  - name: Bullet
+    uniqueID: 4280840879
+    locked: 0
+  - name: Snow
+    uniqueID: 1476431171
+    locked: 0
+  - name: Canvas
+    uniqueID: 2731418469
+    locked: 0

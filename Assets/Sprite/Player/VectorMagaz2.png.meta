@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: b7415d0c547763c4c81962221533d5fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 717198952883926212
+    second: VectorMagaz2_0
+  - first:
+      213: -6503738342543351987
+    second: VectorMagaz2_1
+  - first:
+      213: -3758894989971865761
+    second: VectorMagaz2_2
+  - first:
+      213: -7372286641596821710
+    second: VectorMagaz2_3
+  - first:
+      213: -5441255635197345328
+    second: VectorMagaz2_4
+  - first:
+      213: -1635266616465766260
+    second: VectorMagaz2_5
+  - first:
+      213: 7898956513322498246
+    second: VectorMagaz2_6
+  - first:
+      213: 403142152938812701
+    second: VectorMagaz2_7
+  - first:
+      213: 3817311803950916169
+    second: VectorMagaz2_8
+  - first:
+      213: 6194546840677222855
+    second: VectorMagaz2_9
+  - first:
+      213: 4650891849863399252
+    second: VectorMagaz2_10
+  - first:
+      213: 8887289998100066168
+    second: VectorMagaz2_11
+  - first:
+      213: 2617351061353650489
+    second: VectorMagaz2_12
+  - first:
+      213: 2329936702131011939
+    second: VectorMagaz2_13
+  - first:
+      213: -7617616323154766554
+    second: VectorMagaz2_14
+  - first:
+      213: 6213622785881478008
+    second: VectorMagaz2_15
+  - first:
+      213: -6403283658744447130
+    second: VectorMagaz2_16
+  - first:
+      213: -8000884918555227341
+    second: VectorMagaz2_17
+  - first:
+      213: -1081690755336873097
+    second: VectorMagaz2_18
+  - first:
+      213: -8796218373935838578
+    second: VectorMagaz2_19
+  - first:
+      213: 7325630040703231416
+    second: VectorMagaz2_20
+  - first:
+      213: 594130724436576923
+    second: VectorMagaz2_21
+  - first:
+      213: -454451215205131839
+    second: VectorMagaz2_22
+  - first:
+      213: -2623478999976657512
+    second: VectorMagaz2_23
+  - first:
+      213: 8599969928270969424
+    second: VectorMagaz2_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VectorMagaz2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 333
+        width: 63
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4bde3d5a004f900800000000000000
+      internalID: 717198952883926212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 333
+        width: 60
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9d9c8f641eb5a0800000000000000
+      internalID: -6503738342543351987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 333
+        width: 92
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3bbe0ce8b5dbc0800000000000000
+      internalID: -3758894989971865761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 337
+        width: 115
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f83490c5060b990800000000000000
+      internalID: -7372286641596821710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 335
+        width: 112
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d148fb24d6cc74b0800000000000000
+      internalID: -5441255635197345328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 337
+        width: 115
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c0842dad5e49e0800000000000000
+      internalID: -1635266616465766260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 315
+        width: 85
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c878d0391bbe9d60800000000000000
+      internalID: 7898956513322498246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 183
+        width: 51
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1577e3f6af389500800000000000000
+      internalID: 403142152938812701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 188
+        width: 51
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94266675cd0d9f430800000000000000
+      internalID: 3817311803950916169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 200
+        width: 48
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9851f088377f550800000000000000
+      internalID: 6194546840677222855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 230
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570ed7fe794b8040800000000000000
+      internalID: 4650891849863399252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 204
+        width: 48
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe2a89a2ff55b70800000000000000
+      internalID: 8887289998100066168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 209
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d9784ce2b25420800000000000000
+      internalID: 2617351061353650489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 185
+        width: 51
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610aa70619955020800000000000000
+      internalID: 2329936702131011939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 196
+        width: 51
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625942f505ac84690800000000000000
+      internalID: -7617616323154766554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 208
+        width: 48
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8731db8a0093b3650800000000000000
+      internalID: 6213622785881478008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 215
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f397c3077f227a0800000000000000
+      internalID: -6403283658744447130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 233
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b4cbc9e8527f090800000000000000
+      internalID: -8000884918555227341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 85
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b52533dff0df0f0800000000000000
+      internalID: -1081690755336873097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 40
+        width: 115
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a4ac64efd8de580800000000000000
+      internalID: -8796218373935838578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 13
+        width: 112
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5eb0c85bdd9a560800000000000000
+      internalID: 7325630040703231416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 22
+        width: 115
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a003cfeb6ce3800800000000000000
+      internalID: 594130724436576923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 16
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c914fd070771b9f0800000000000000
+      internalID: -454451215205131839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 17
+        width: 60
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db1b2dfb7879bd0800000000000000
+      internalID: -2623478999976657512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorMagaz2_24
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 13
+        width: 63
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af1adc51b395770800000000000000
+      internalID: 8599969928270969424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VectorMagaz2_0: 717198952883926212
+      VectorMagaz2_1: -6503738342543351987
+      VectorMagaz2_10: 4650891849863399252
+      VectorMagaz2_11: 8887289998100066168
+      VectorMagaz2_12: 2617351061353650489
+      VectorMagaz2_13: 2329936702131011939
+      VectorMagaz2_14: -7617616323154766554
+      VectorMagaz2_15: 6213622785881478008
+      VectorMagaz2_16: -6403283658744447130
+      VectorMagaz2_17: -8000884918555227341
+      VectorMagaz2_18: -1081690755336873097
+      VectorMagaz2_19: -8796218373935838578
+      VectorMagaz2_2: -3758894989971865761
+      VectorMagaz2_20: 7325630040703231416
+      VectorMagaz2_21: 594130724436576923
+      VectorMagaz2_22: -454451215205131839
+      VectorMagaz2_23: -2623478999976657512
+      VectorMagaz2_24: 8599969928270969424
+      VectorMagaz2_3: -7372286641596821710
+      VectorMagaz2_4: -5441255635197345328
+      VectorMagaz2_5: -1635266616465766260
+      VectorMagaz2_6: 7898956513322498246
+      VectorMagaz2_7: 403142152938812701
+      VectorMagaz2_8: 3817311803950916169
+      VectorMagaz2_9: 6194546840677222855
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

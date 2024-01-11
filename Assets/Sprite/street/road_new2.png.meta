@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: 81b2722b8910a7d418c42730397242ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2955570378220920729
+    second: road_new2_0
+  - first:
+      213: 5518857095940365479
+    second: road_new2_1
+  - first:
+      213: 6391733623645326660
+    second: road_new2_2
+  - first:
+      213: -3843922159524878071
+    second: road_new2_3
+  - first:
+      213: 3165943636688181933
+    second: road_new2_4
+  - first:
+      213: 6526603186301526116
+    second: road_new2_5
+  - first:
+      213: -2134100403553724363
+    second: road_new2_6
+  - first:
+      213: 1408999886825995958
+    second: road_new2_7
+  - first:
+      213: 7656126399254849421
+    second: road_new2_8
+  - first:
+      213: 4009945488133511212
+    second: road_new2_9
+  - first:
+      213: -1420768457788512869
+    second: road_new2_10
+  - first:
+      213: 124754139444475389
+    second: road_new2_11
+  - first:
+      213: 9107057824562260567
+    second: road_new2_12
+  - first:
+      213: -7907094247454755104
+    second: road_new2_13
+  - first:
+      213: -2812530098613052140
+    second: road_new2_14
+  - first:
+      213: -633170033510005661
+    second: road_new2_15
+  - first:
+      213: 103831367190831532
+    second: road_new2_16
+  - first:
+      213: 6834886660817431464
+    second: road_new2_17
+  - first:
+      213: -3076949653212273422
+    second: road_new2_18
+  - first:
+      213: -4147016769519810171
+    second: road_new2_19
+  - first:
+      213: 1713023918847800916
+    second: road_new2_20
+  - first:
+      213: -7351442052867367204
+    second: road_new2_21
+  - first:
+      213: -2329761841184691006
+    second: road_new2_22
+  - first:
+      213: 1437976686699784144
+    second: road_new2_23
+  - first:
+      213: 4852114322452272016
+    second: road_new2_24
+  - first:
+      213: -8591418822599609304
+    second: road_new2_25
+  - first:
+      213: -5302060844112682317
+    second: road_new2_26
+  - first:
+      213: -5063940370569371216
+    second: road_new2_27
+  - first:
+      213: -3832072956117752012
+    second: road_new2_28
+  - first:
+      213: 8592646006767757616
+    second: road_new2_29
+  - first:
+      213: 6209816111185112550
+    second: road_new2_30
+  - first:
+      213: -662967872025637407
+    second: road_new2_31
+  - first:
+      213: -4370801031881508984
+    second: road_new2_32
+  - first:
+      213: -3296528945570968282
+    second: road_new2_33
+  - first:
+      213: 8898779377060630439
+    second: road_new2_34
+  - first:
+      213: 8438525648830312776
+    second: road_new2_35
+  - first:
+      213: -3392509925685962077
+    second: road_new2_36
+  - first:
+      213: 4280918856558807917
+    second: road_new2_37
+  - first:
+      213: -5580662248739460351
+    second: road_new2_38
+  - first:
+      213: -1572092617522308379
+    second: road_new2_39
+  - first:
+      213: 812518545656003911
+    second: road_new2_40
+  - first:
+      213: 7145301578388605235
+    second: road_new2_41
+  - first:
+      213: -3624261603271429054
+    second: road_new2_42
+  - first:
+      213: -3655467567736412703
+    second: road_new2_43
+  - first:
+      213: 7617882392824510909
+    second: road_new2_44
+  - first:
+      213: -102447240349007814
+    second: road_new2_45
+  - first:
+      213: -1636370892851559984
+    second: road_new2_46
+  - first:
+      213: -8842722030640265059
+    second: road_new2_47
+  - first:
+      213: 1088094205679877999
+    second: road_new2_48
+  - first:
+      213: -1034690147776047352
+    second: road_new2_49
+  - first:
+      213: 7650415499366878027
+    second: road_new2_50
+  - first:
+      213: 3255513012359192842
+    second: road_new2_51
+  - first:
+      213: 6091296391461821019
+    second: road_new2_52
+  - first:
+      213: -1995673356108952693
+    second: road_new2_53
+  - first:
+      213: 2401020570847235892
+    second: road_new2_54
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: road_new2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1099
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760a9797664bbf6d0800000000000000
+      internalID: -2955570378220920729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1099
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac5ba1e94be69c40800000000000000
+      internalID: 5518857095940365479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1099
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dcc48addff3b850800000000000000
+      internalID: 6391733623645326660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1099
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90964417925a7aac0800000000000000
+      internalID: -3843922159524878071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1099
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa15b3b6f0bfeb20800000000000000
+      internalID: 3165943636688181933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606f6db407239a50800000000000000
+      internalID: 6526603186301526116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 999
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538992b6df62262e0800000000000000
+      internalID: -2134100403553724363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 999
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be34de8ee5cd8310800000000000000
+      internalID: 1408999886825995958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 999
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87631f6566004a60800000000000000
+      internalID: 7656126399254849421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 999
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d0e40d2036a730800000000000000
+      internalID: 4009945488133511212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95af6d7d9a684ce0800000000000000
+      internalID: -1420768457788512869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 899
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f8d59a373bb100800000000000000
+      internalID: 124754139444475389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 899
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa9f517d4c26e70800000000000000
+      internalID: 9107057824562260567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 899
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6bceeecab544290800000000000000
+      internalID: -7907094247454755104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 899
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1318d6c2e7f8d0800000000000000
+      internalID: -2812530098613052140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c63e85378637f0800000000000000
+      internalID: -633170033510005661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 799
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1e3fd0412e07100800000000000000
+      internalID: 103831367190831532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 799
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab241a84356ade50800000000000000
+      internalID: 6834886660817431464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 799
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46580c79a7c45d0800000000000000
+      internalID: -3076949653212273422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 799
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890f2f4836d276c0800000000000000
+      internalID: -4147016769519810171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456bbae9d22e5c710800000000000000
+      internalID: 1713023918847800916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded8fb076e6af990800000000000000
+      internalID: -7351442052867367204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc2de4f2f50bafd0800000000000000
+      internalID: -2329761841184691006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a8068d28b4f310800000000000000
+      internalID: 1437976686699784144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0935a57c44c265340800000000000000
+      internalID: 4852114322452272016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8247852a91625c880800000000000000
+      internalID: -8591418822599609304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 599
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e729f0cb4b66b0800000000000000
+      internalID: -5302060844112682317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 599
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e378101549b9b0800000000000000
+      internalID: -5063940370569371216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 599
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437683913fdb1dac0800000000000000
+      internalID: -3832072956117752012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 599
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039221274063f3770800000000000000
+      internalID: 8592646006767757616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edafa32ad2bd2650800000000000000
+      internalID: 6209816111185112550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 499
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4a62ab3aacc6f0800000000000000
+      internalID: -662967872025637407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 499
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887bac67e9bc753c0800000000000000
+      internalID: -4370801031881508984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 499
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d0377c3606042d0800000000000000
+      internalID: -3296528945570968282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 499
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af454812b0de7b70800000000000000
+      internalID: 8898779377060630439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841bd8e4e5aab1570800000000000000
+      internalID: 8438525648830312776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 399
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa508662326be0d0800000000000000
+      internalID: -3392509925685962077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 399
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b857dc401e86b30800000000000000
+      internalID: 4280918856558807917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 399
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba37c90418d82b0800000000000000
+      internalID: -5580662248739460351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 399
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea919af71ece2ae0800000000000000
+      internalID: -1572092617522308379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3e37ff45a64b00800000000000000
+      internalID: 812518545656003911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 299
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33904e89de5392360800000000000000
+      internalID: 7145301578388605235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2443be3264904bdc0800000000000000
+      internalID: -3624261603271429054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 299
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e52c195d9b254dc0800000000000000
+      internalID: -3655467567736412703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 299
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f10dcca728b960800000000000000
+      internalID: 7617882392824510909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3047c617c8049ef0800000000000000
+      internalID: -102447240349007814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d14bc2c7517a49e0800000000000000
+      internalID: -1636370892851559984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 199
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d988a24f927584580800000000000000
+      internalID: -8842722030640265059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 199
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb5b34aefa91f00800000000000000
+      internalID: 1088094205679877999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 199
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075639eaca04a1f0800000000000000
+      internalID: -1034690147776047352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc7efec5cbb2a60800000000000000
+      internalID: 7650415499366878027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01e45716d7ed2d20800000000000000
+      internalID: 3255513012359192842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a53b28bc1a88450800000000000000
+      internalID: 6091296391461821019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 99
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0a69f7a1fd44e0800000000000000
+      internalID: -1995673356108952693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_new2_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 99
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f41cfec73225120800000000000000
+      internalID: 2401020570847235892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      road_new2_0: -2955570378220920729
+      road_new2_1: 5518857095940365479
+      road_new2_10: -1420768457788512869
+      road_new2_11: 124754139444475389
+      road_new2_12: 9107057824562260567
+      road_new2_13: -7907094247454755104
+      road_new2_14: -2812530098613052140
+      road_new2_15: -633170033510005661
+      road_new2_16: 103831367190831532
+      road_new2_17: 6834886660817431464
+      road_new2_18: -3076949653212273422
+      road_new2_19: -4147016769519810171
+      road_new2_2: 6391733623645326660
+      road_new2_20: 1713023918847800916
+      road_new2_21: -7351442052867367204
+      road_new2_22: -2329761841184691006
+      road_new2_23: 1437976686699784144
+      road_new2_24: 4852114322452272016
+      road_new2_25: -8591418822599609304
+      road_new2_26: -5302060844112682317
+      road_new2_27: -5063940370569371216
+      road_new2_28: -3832072956117752012
+      road_new2_29: 8592646006767757616
+      road_new2_3: -3843922159524878071
+      road_new2_30: 6209816111185112550
+      road_new2_31: -662967872025637407
+      road_new2_32: -4370801031881508984
+      road_new2_33: -3296528945570968282
+      road_new2_34: 8898779377060630439
+      road_new2_35: 8438525648830312776
+      road_new2_36: -3392509925685962077
+      road_new2_37: 4280918856558807917
+      road_new2_38: -5580662248739460351
+      road_new2_39: -1572092617522308379
+      road_new2_4: 3165943636688181933
+      road_new2_40: 812518545656003911
+      road_new2_41: 7145301578388605235
+      road_new2_42: -3624261603271429054
+      road_new2_43: -3655467567736412703
+      road_new2_44: 7617882392824510909
+      road_new2_45: -102447240349007814
+      road_new2_46: -1636370892851559984
+      road_new2_47: -8842722030640265059
+      road_new2_48: 1088094205679877999
+      road_new2_49: -1034690147776047352
+      road_new2_5: 6526603186301526116
+      road_new2_50: 7650415499366878027
+      road_new2_51: 3255513012359192842
+      road_new2_52: 6091296391461821019
+      road_new2_53: -1995673356108952693
+      road_new2_54: 2401020570847235892
+      road_new2_6: -2134100403553724363
+      road_new2_7: 1408999886825995958
+      road_new2_8: 7656126399254849421
+      road_new2_9: 4009945488133511212
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

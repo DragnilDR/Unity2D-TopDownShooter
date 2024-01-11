@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bullet
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5b34768733ed3744082712e14e74d593, type: 3}
+    - {fileID: 2800000, guid: 729ac56b6c217a74991d86c857cf1366, type: 3}
+    - {fileID: 2800000, guid: b909d6bbbb75c014aa125a116d56dab7, type: 3}
+    - {fileID: 2800000, guid: 890a50805349aa246b1d0c25725d8c1d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 890a50805349aa246b1d0c25725d8c1d, type: 3}
+  - {fileID: 21300000, guid: 5b34768733ed3744082712e14e74d593, type: 3}
+  - {fileID: 21300000, guid: 729ac56b6c217a74991d86c857cf1366, type: 3}
+  - {fileID: 21300000, guid: b909d6bbbb75c014aa125a116d56dab7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FireAtBullet3
+  - bullet
+  - FireAtBullet1
+  - FireAtBullet2
+  m_RenderDataMap: {}
+  m_Tag: Bullet
+  m_IsVariant: 0

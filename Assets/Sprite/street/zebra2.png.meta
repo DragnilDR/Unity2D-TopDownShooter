@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: 88d1241eb7f236b4ca1ef4d43737e5d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5370879234860196133
+    second: zebra2_0
+  - first:
+      213: 5947337989488927633
+    second: zebra2_1
+  - first:
+      213: -9175257863912715984
+    second: zebra2_2
+  - first:
+      213: 970432971481765420
+    second: zebra2_3
+  - first:
+      213: 7193912565339742883
+    second: zebra2_4
+  - first:
+      213: 7271903373254391260
+    second: zebra2_5
+  - first:
+      213: 3480083473665355543
+    second: zebra2_6
+  - first:
+      213: 7635182298329320527
+    second: zebra2_7
+  - first:
+      213: -1937008365538520934
+    second: zebra2_8
+  - first:
+      213: -5393851405844395939
+    second: zebra2_9
+  - first:
+      213: -1679576186223000337
+    second: zebra2_10
+  - first:
+      213: 3353186854222303211
+    second: zebra2_11
+  - first:
+      213: -6143435769041313367
+    second: zebra2_12
+  - first:
+      213: -3405109619410142032
+    second: zebra2_13
+  - first:
+      213: 105517708827432946
+    second: zebra2_14
+  - first:
+      213: -6431726042596045370
+    second: zebra2_15
+  - first:
+      213: 356948701405032218
+    second: zebra2_16
+  - first:
+      213: 5532410016376291060
+    second: zebra2_17
+  - first:
+      213: -969280145451629623
+    second: zebra2_18
+  - first:
+      213: 3227876647152255054
+    second: zebra2_19
+  - first:
+      213: -8618051306984293515
+    second: zebra2_20
+  - first:
+      213: -3295116114450609113
+    second: zebra2_21
+  - first:
+      213: -6192646072947016109
+    second: zebra2_22
+  - first:
+      213: 7810714904588288460
+    second: zebra2_23
+  - first:
+      213: 3285279652777582432
+    second: zebra2_24
+  - first:
+      213: -3837735420285164783
+    second: zebra2_25
+  - first:
+      213: 2518213761920189302
+    second: zebra2_26
+  - first:
+      213: -5020368438262698342
+    second: zebra2_27
+  - first:
+      213: 5613217794575592112
+    second: zebra2_28
+  - first:
+      213: -5079284773769462045
+    second: zebra2_29
+  - first:
+      213: 6822171309230568993
+    second: zebra2_30
+  - first:
+      213: -13435426634423321
+    second: zebra2_31
+  - first:
+      213: 1618012935346672631
+    second: zebra2_32
+  - first:
+      213: 979107539834807091
+    second: zebra2_33
+  - first:
+      213: -989117202922497435
+    second: zebra2_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zebra2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212d5d3532398a40800000000000000
+      internalID: 5370879234860196133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 633
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1936cae1460398250800000000000000
+      internalID: 5947337989488927633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 633
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398fdad59feaa080800000000000000
+      internalID: -9175257863912715984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 633
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c265f7f55aba77d00800000000000000
+      internalID: 970432971481765420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 633
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26b4afc59e5d360800000000000000
+      internalID: 7193912565339742883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5facbf69dfae460800000000000000
+      internalID: 7271903373254391260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 533
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fe7842b7dbb4030800000000000000
+      internalID: 3480083473665355543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 533
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c054fe8dd95f960800000000000000
+      internalID: 7635182298329320527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 533
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90dd1d772d5e15e0800000000000000
+      internalID: -1937008365538520934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 533
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58476769b03525b0800000000000000
+      internalID: -5393851405844395939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe409fe7b52f0b8e0800000000000000
+      internalID: -1679576186223000337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 433
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef0e6f8da9e88e20800000000000000
+      internalID: 3353186854222303211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 433
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a12dd5a7b12ebaa0800000000000000
+      internalID: -6143435769041313367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 433
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcfac997de9eb0d0800000000000000
+      internalID: -3405109619410142032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 433
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f71c201ccfd67100800000000000000
+      internalID: 105517708827432946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0f62bd3bedb6a0800000000000000
+      internalID: -6431726042596045370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 333
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa846e3f224f400800000000000000
+      internalID: 356948701405032218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 333
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fefbe1199117cc40800000000000000
+      internalID: 5532410016376291060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 333
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3448ad7dc6c82f0800000000000000
+      internalID: -969280145451629623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 333
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400a4465b8bbcc20800000000000000
+      internalID: 3227876647152255054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3c172ff7866880800000000000000
+      internalID: -8618051306984293515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 233
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c81882a556542d0800000000000000
+      internalID: -3295116114450609113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 233
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e764ae43d4f0aa0800000000000000
+      internalID: -6192646072947016109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 233
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc185d1a2db356c60800000000000000
+      internalID: 7810714904588288460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 233
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f50a32078a79d20800000000000000
+      internalID: 3285279652777582432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e7fbe7ff9dbac0800000000000000
+      internalID: -3837735420285164783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 133
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c0cb031e72f220800000000000000
+      internalID: 2518213761920189302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 133
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee4c32181145ab0800000000000000
+      internalID: -5020368438262698342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 133
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba649418d726ed40800000000000000
+      internalID: 5613217794575592112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 133
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eebb62d861c289b0800000000000000
+      internalID: -5079284773769462045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126bc8b09a83dae50800000000000000
+      internalID: 6822171309230568993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ac08fc8440dff0800000000000000
+      internalID: -13435426634423321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 33
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3535d2136547610800000000000000
+      internalID: 1618012935346672631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 33
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333a2c4be1d769d00800000000000000
+      internalID: 979107539834807091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zebra2_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 33
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a939ef423f542f0800000000000000
+      internalID: -989117202922497435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zebra2_0: 5370879234860196133
+      zebra2_1: 5947337989488927633
+      zebra2_10: -1679576186223000337
+      zebra2_11: 3353186854222303211
+      zebra2_12: -6143435769041313367
+      zebra2_13: -3405109619410142032
+      zebra2_14: 105517708827432946
+      zebra2_15: -6431726042596045370
+      zebra2_16: 356948701405032218
+      zebra2_17: 5532410016376291060
+      zebra2_18: -969280145451629623
+      zebra2_19: 3227876647152255054
+      zebra2_2: -9175257863912715984
+      zebra2_20: -8618051306984293515
+      zebra2_21: -3295116114450609113
+      zebra2_22: -6192646072947016109
+      zebra2_23: 7810714904588288460
+      zebra2_24: 3285279652777582432
+      zebra2_25: -3837735420285164783
+      zebra2_26: 2518213761920189302
+      zebra2_27: -5020368438262698342
+      zebra2_28: 5613217794575592112
+      zebra2_29: -5079284773769462045
+      zebra2_3: 970432971481765420
+      zebra2_30: 6822171309230568993
+      zebra2_31: -13435426634423321
+      zebra2_32: 1618012935346672631
+      zebra2_33: 979107539834807091
+      zebra2_34: -989117202922497435
+      zebra2_4: 7193912565339742883
+      zebra2_5: 7271903373254391260
+      zebra2_6: 3480083473665355543
+      zebra2_7: 7635182298329320527
+      zebra2_8: -1937008365538520934
+      zebra2_9: -5393851405844395939
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
